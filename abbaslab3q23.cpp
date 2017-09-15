@@ -2,7 +2,7 @@
 // q 23
 
 
-include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
