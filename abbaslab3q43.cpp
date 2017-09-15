@@ -1,5 +1,5 @@
 # abbaslab3
-// q 42
+// q 43
 
 
 #include<iostream>
